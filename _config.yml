@@ -1,7 +1,7 @@
 name: Gray Scott
 favicon: null
-layout_spectrum: 0.324530623620376
-typography_spectrum: 0.11568996333517134
+layout_spectrum: 0.06413
+typography_spectrum: 0.24951
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8541235504671931
+    - '#342a29'
+    - '#b1bcce'
+    - '#615c56'
+    - '#8a8683'
+    - '#ffffff'
+  brandStrength: 0.6875
   lightness: 0.19739592028781772
   saturation: 0.10351482802070677
   rhythmicContrast: 0.3172360584139824
